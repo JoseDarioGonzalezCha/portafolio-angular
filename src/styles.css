@@ -1,1 +1,22 @@
 /* You can add global styles to this file, and also import other style files */
+* {
+  font-family: 'Roboto', sans-serif;
+  color: white;
+  }
+body {
+    background: url(./assets/naveEspacial.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100vh;
+}
+
+a {
+  color: white;
+}
+
+.nav-link {
+  color: white;
+}
+
